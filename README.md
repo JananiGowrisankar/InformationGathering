@@ -1,4 +1,4 @@
-# InformationGathering
+# Information Gathering
 Information Gathering Techiques
 
 # To perform information gathering techniques
@@ -29,22 +29,38 @@ http://www.whois.com/whois website to get detailed information about a domain na
 
 ## OUTPUT:
 
+<img width="1919" height="1069" alt="image" src="https://github.com/user-attachments/assets/8c1778ea-87ec-4023-a71d-60b89faad478" />
+
+<img width="1917" height="1066" alt="image" src="https://github.com/user-attachments/assets/88f223ff-3e94-4a67-b54d-bf6be560fad4" />
+
+<img width="1913" height="1067" alt="image" src="https://github.com/user-attachments/assets/6f495dd6-cd16-4b20-b77b-d511dd669e8d" />
+
 
 ## Finding IP address:
 ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of facebook.com.
-##output
+
+## output
 
 
 
 ## Finding Hosting Company
 get further detail by using ip2location.com website.
-##output
 
+## output
+
+<img width="1910" height="1055" alt="image" src="https://github.com/user-attachments/assets/8449b671-5973-420e-afd9-524e82bf0446" />
+
+<img width="1916" height="1062" alt="image" src="https://github.com/user-attachments/assets/3f2744e5-c677-4f48-89d5-7c8805854b3c" />
 
 
 ## History of the website:
-## output
+
 https://web.archive.org/
+
+## output
+
+<img width="1239" height="737" alt="image" src="https://github.com/user-attachments/assets/9d103386-71ea-4de3-8363-3646414b33cc" />
+
 
 
 # Webserver Fingerprinting:
