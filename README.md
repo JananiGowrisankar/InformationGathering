@@ -72,12 +72,15 @@ Host: example.com
 
 
 
+
 ## nmap:
 ###output
 
 
 ## Whatweb
 ### output
+
+<img width="1908" height="1119" alt="image" src="https://github.com/user-attachments/assets/d86b9f7e-471c-467c-a040-7d71a3432760" />
 
 
 ## httprint
