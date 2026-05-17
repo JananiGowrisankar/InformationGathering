@@ -41,6 +41,7 @@ ping command is available on Windows as well as on Linux OS. Following is the ex
 
 ## output
 
+<img width="1223" height="522" alt="image" src="https://github.com/user-attachments/assets/2168e105-ba45-4be0-a12d-d50df36054ea" />
 
 
 ## Finding Hosting Company
@@ -55,6 +56,7 @@ get further detail by using ip2location.com website.
 
 ## History of the website:
 
+Wayback Machine is used to view archived versions of websites from previous years. It helps analyze changes in content, design, and hidden old pages. This is useful for historical website reconnaissance.
 https://web.archive.org/
 
 ## output
@@ -70,10 +72,15 @@ sudo nc example.com 80
 GET / HTTP/1.1
 Host: example.com
 
+Netcat is a networking utility used to read/write data across network connections. It can connect to web servers manually and grab banners to identify services. It is useful for testing ports and server responses. sudo nc example.com 80
+
+<img width="1222" height="481" alt="image" src="https://github.com/user-attachments/assets/85ec2c9a-ad4e-4d64-a540-b6c91011e73a" />
 
 
 
 ## nmap:
+
+Nmap is a powerful network scanner used to discover hosts, open ports, and running services. It also detects operating systems and versions. It is widely used for network mapping and security auditing.
 
 ### output
 
@@ -81,13 +88,19 @@ Host: example.com
 
 
 ## Whatweb
+WhatWeb identifies technologies used by a website such as CMS, frameworks, and server software. It detects plugins, analytics tools, and scripting languages. This helps fingerprint the target web server.
+
 ### output
 
 <img width="1908" height="1119" alt="image" src="https://github.com/user-attachments/assets/d86b9f7e-471c-467c-a040-7d71a3432760" />
 
 
 ## httprint
+Httprint is a web server fingerprinting tool used to identify web server type and version. It works even when banners are hidden. It is useful for detecting Apache, IIS, Nginx, etc.
+
 ### output
+
+<img width="1228" height="552" alt="image" src="https://github.com/user-attachments/assets/4e173150-ad1e-4c02-8866-f25a4f205045" />
 
 
 
@@ -102,6 +115,9 @@ sudo traceroute -T www.google.com
 
 ## UDP Traceroute:
 sudo traceroute -U www.google.com
+
+Traceroute is used to trace the path packets take from source to destination. It shows intermediate routers and network delays. It helps analyze network routes and locate connectivity issues.
+
 ## output
 
 <img width="956" height="546" alt="image" src="https://github.com/user-attachments/assets/c915df25-90b3-4553-8075-eacf0f3e21ea" />
@@ -111,13 +127,11 @@ sudo traceroute -U www.google.com
 
 ## ICMP Traceroute:
 sudo traceroute  www.google.com
+
+
 ## output
 
 <img width="753" height="93" alt="image" src="https://github.com/user-attachments/assets/eb38cc7a-4fc3-4746-af57-d9f112a0fd30" />
-
-
-
-
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
